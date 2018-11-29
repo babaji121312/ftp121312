@@ -1,4 +1,9 @@
 welcome
+<<<<<<< HEAD
 babaji 
 hexaware
 ff
+=======
+hello 
+hii
+>>>>>>> 764269c456dd95776d98302332308bb44734626e
